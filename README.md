@@ -1,4 +1,18 @@
-### Hi there 👋
+# AutoHackOS
+
+### What is it?
+Operating system for automotive penetration testing.
+
+- One distribution for anything related to car hacking
+- Supports multiple domains (BLE, WiFi, RF, USB)
+- Preconfigured telecom stack
+- Preconfigured tools for V2X
+
+### Who are we?
+We are a small team of three people:
+- [![Linkedin Badge](https://img.shields.io/badge/Ravi%20Rajput-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/frustratedresearcher/) [![GitHub frustratedresearcher](https://img.shields.io/github/followers/frustratedresearcher?label=GitHub&style=for-the-badge&logo=github)](https://github.com/frustratedresearcher)
+- [![Linkedin Badge](https://img.shields.io/badge/Animesh%20Roy-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anir0y/) [![GitHub anir0y](https://img.shields.io/github/followers/anir0y?label=GitHub&style=for-the-badge&logo=github)](https://github.com/anir0y)
+- [![Linkedin Badge](https://img.shields.io/badge/Adhokshaj%20Mishra-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adhokshajmishra/) [![GitHub adhokshajmishra](https://img.shields.io/github/followers/adhokshajmishra?label=GitHub&style=for-the-badge&logo=github)](https://github.com/adhokshajmishra)
 
 <!--
 **autohackos/autohackos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
