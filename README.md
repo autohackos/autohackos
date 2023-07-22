@@ -12,9 +12,9 @@ Operating system for automotive penetration testing.
 We are security professionals who are keen into making life of a security geek easy. We invite you to join our journey and build things together.
 
 #### Current team
-- [![Linkedin Badge](https://img.shields.io/badge/Ravi%20Rajput-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/frustratedresearcher/) [![GitHub frustratedresearcher](https://img.shields.io/github/followers/frustratedresearcher?label=GitHub&style=for-the-badge&logo=github)](https://github.com/frustratedresearcher)
-- [![Linkedin Badge](https://img.shields.io/badge/Animesh%20Roy-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anir0y/) [![GitHub anir0y](https://img.shields.io/github/followers/anir0y?label=GitHub&style=for-the-badge&logo=github)](https://github.com/anir0y)
-- [![Linkedin Badge](https://img.shields.io/badge/Adhokshaj%20Mishra-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adhokshajmishra/) [![GitHub adhokshajmishra](https://img.shields.io/github/followers/adhokshajmishra?label=GitHub&style=for-the-badge&logo=github)](https://github.com/adhokshajmishra)
+- [![Linkedin Badge](https://img.shields.io/badge/Ravi%20Rajput-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/frustratedresearcher/) [![GitHub frustratedresearcher](https://img.shields.io/github/followers/frustratedresearcher?label=GitHub&style=for-the-badge&logo=github)](https://github.com/frustratedresearcher) (Project Lead)
+- [![Linkedin Badge](https://img.shields.io/badge/Animesh%20Roy-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anir0y/) [![GitHub anir0y](https://img.shields.io/github/followers/anir0y?label=GitHub&style=for-the-badge&logo=github)](https://github.com/anir0y) (Promoter)
+- [![Linkedin Badge](https://img.shields.io/badge/Adhokshaj%20Mishra-Connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adhokshajmishra/) [![GitHub adhokshajmishra](https://img.shields.io/github/followers/adhokshajmishra?label=GitHub&style=for-the-badge&logo=github)](https://github.com/adhokshajmishra) (Technical Contributor)
 
 ### Cryptographic Identities
 
